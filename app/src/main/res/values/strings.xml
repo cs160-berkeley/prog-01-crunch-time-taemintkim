@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CrunchTime</string>
+    <string name="minutes">Minutes</string>
+    <string name="jogging">Jogging</string>
+    <string name="jumpingjack">Jumping Jacks</string>
+    <string name="pushups">Push Ups</string>
+    <string name="reps">Reps</string>
+    <string name="situps">Situps</string>
+    <string name="calories">Calories</string>
+    <string name="equals">=</string>
+</resources>
